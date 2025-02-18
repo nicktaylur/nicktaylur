@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Nick Taylor</h1>
-<h3>A UX designer sharing about my journey and learnings into Design engineering one step at a time. Attempting to have real world impact with designs, some code and few powerpoint slides.</h3>
+<h3>I'm trying to commit myself to sharing my journey and learning and building software one step at a time. So this is my Attempt to have real world impact with designs, some code and a few powerpoint slides.</h3>
 
-- 🌱 I’m currently learning **front-end engineering**
+- 🌱 I’m currently learning **full-Stack engineering**
 
 - 👨‍💻 Check out my [projects](https://www.hellonicktaylor.com/)
 
